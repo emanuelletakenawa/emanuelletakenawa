@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=115&section=header"/>
 
-<img align="left" src="https://media3.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47shnjb9dsygo3s7720nd6k96q0crlwgek9icm4sz5&rid=giphy.gif&ct=s"   width="155px">
+<img align="left" src="https://media3.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47shnjb9dsygo3s7720nd6k96q0crlwgek9icm4sz5&rid=giphy.gif&ct=s"   width="200px">
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7588A&width=435&height=44&lines=Hello+World!" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F73F8B&width=435&lines=My+name+is+Emanuelle+Takenawa" alt="Typing SVG" /></a>
@@ -12,7 +12,7 @@
   
 <br><div  align="center"> 
   <a href = "mailto:emanuelletakenawa2@gmail.com"><img height="65" width="65" src="https://img.icons8.com/dusk/512/gmail.png" target="_blank"></a>
-  <a href="www.linkedin.com/in/emanuelle-takenawa-32b6a1257" target="_blank"><img height="64" width="64" src="https://img.icons8.com/dusk/512/linkedin--v1.png" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/emanuelle-takenawa-32b6a1257/" target="_blank"><img height="64" width="64" src="https://img.icons8.com/dusk/512/linkedin--v1.png" target="_blank"></a> 
 </div>
 
 
