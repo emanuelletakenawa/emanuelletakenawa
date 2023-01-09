@@ -1,14 +1,13 @@
-<img align="left" src="https://media3.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47shnjb9dsygo3s7720nd6k96q0crlwgek9icm4sz5&rid=giphy.gif&ct=s"   width="109px">
+<img align="left" src="https://media3.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47shnjb9dsygo3s7720nd6k96q0crlwgek9icm4sz5&rid=giphy.gif&ct=s"   width="155px">
 <div>
-  <h2>Hello, world! My name is Emanuelle Takenawa!</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=150&color=F72478&background=86BBFF00&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Hello+world!;I'm+Emanuelle+Takenawa" alt="Typing SVG" /></a>
 </div
-
-
+  
 - I’m currently learning Front-End Develompent
 ##
-
-
-<div  align="center"> 
+  
+  
+<br><div  align="center"> 
   <a href = "mailto:emanuelletakenawa2@gmail.com"><img height="65" width="65" src="https://img.icons8.com/dusk/512/gmail.png" target="_blank"></a>
   <a href="www.linkedin.com/in/emanuelle-takenawa-32b6a1257" target="_blank"><img height="64" width="64" src="https://img.icons8.com/dusk/512/linkedin--v1.png" target="_blank"></a> 
 </div>
@@ -43,4 +42,3 @@
    <b>Thanks for your visit!</b></br>
    <img width="180px"src="https://media1.giphy.com/media/XgH0beW46tK3HDn5hP/giphy.gif?cid=790b76115f388660b104c6b93ceb3ff17e684f30381f0c7e&rid=giphy.gif&ct=s">
 </div>
- 
