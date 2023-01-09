@@ -1,6 +1,7 @@
 <img align="left" src="https://media3.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47shnjb9dsygo3s7720nd6k96q0crlwgek9icm4sz5&rid=giphy.gif&ct=s"   width="155px">
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=150&color=F72478&background=86BBFF00&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Hello+world!;I'm+Emanuelle+Takenawa" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7588A&width=435&height=44&lines=Hello+World!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F73F8B&width=435&lines=My+name+is+Emanuelle+Takenawa" alt="Typing SVG" /></a>
 </div
   
 - I’m currently learning Front-End Develompent
