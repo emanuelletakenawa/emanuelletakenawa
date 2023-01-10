@@ -15,10 +15,6 @@
   <a href="https://www.linkedin.com/in/emanuelle-takenawa-32b6a1257/" target="_blank"><img height="64" width="64" src="https://img.icons8.com/dusk/512/linkedin--v1.png" target="_blank"></a> 
 </div>
 
-
-
-
-
 ## 
 
 <div align="center">
@@ -39,7 +35,6 @@
 </div>
 
 ##
-
 
 <div align = "center">
    <b>Thanks for your visit!</b></br>
