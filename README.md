@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F73F8B&width=435&lines=My+name+is+Emanuelle+Takenawa" alt="Typing SVG" /></a>
 </div
   
-- I’m currently learning Front-End Develompent
+- I’m currently learning Front-End Develompent <br>
   <a href="https://github.com/emanuelletakenawa/BOOTCAMP-KENZIE-ACADEMY-M1" target="_blank">BOOTCAMP-KENZIE-ACADEMY-M1</a>
 ##
   
