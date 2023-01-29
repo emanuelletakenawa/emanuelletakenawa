@@ -6,7 +6,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F73F8B&width=435&lines=My+name+is+Emanuelle+Takenawa" alt="Typing SVG" /></a>
 </div
   
-- I’m currently learning Front-End Develompent <br>
+- I’m currently learning Front-End Develompent
+ <br> <br>
+- <a href="https://github.com/emanuelletakenawa?tab=repositories"> ![portfolio](https://img.shields.io/badge/my_repositories-000?style=for-the-badge&logo=ko-fi&logoColor=pink) </a>
 ##
   
   
