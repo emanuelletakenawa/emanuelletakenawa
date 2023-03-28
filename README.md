@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=115&section=header"/>
+
 
 <img align="left" src="https://media3.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47shnjb9dsygo3s7720nd6k96q0crlwgek9icm4sz5&rid=giphy.gif&ct=s"   width="200px">
 <div>
@@ -29,9 +29,12 @@
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Manu-trello" height="60" width="35"src="https://icongr.am/devicon/react-original.svg?size=128&color=000000" />
+  <img align="center" alt="Manu-GitHub" height="40" width="40"src="https://img.icons8.com/fluency/512/github.png" />
   <img align="center" alt="Manu-VsCode " height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Manu-Figma" height="35" width="35"src="https://img.icons8.com/fluency/2x/figma.png" />
   <img align="center" alt="Manu-trello" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+ 
 </div>
 
 ##
