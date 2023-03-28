@@ -11,7 +11,6 @@
 - <a href="https://github.com/emanuelletakenawa?tab=repositories"> ![portfolio](https://img.shields.io/badge/my_repositories-000?style=for-the-badge&logo=ko-fi&logoColor=pink) </a>
 ##
   
-  
 <br><div  align="center"> 
   <a href = "mailto:emanuelletakenawa2@gmail.com"><img height="65" width="65" src="https://img.icons8.com/dusk/512/gmail.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuelle-takenawa-32b6a1257/" target="_blank"><img height="64" width="64" src="https://img.icons8.com/dusk/512/linkedin--v1.png" target="_blank"></a> 
@@ -22,7 +21,7 @@
 <div align="center">
   <a href="https://github.com/emanuelletakenawa">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=emanuelletakenawa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelletakenawa&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelletakenawa&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div aling="center" ><br>
