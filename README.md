@@ -29,9 +29,13 @@
   <img align="center" alt="Manu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Manu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manu-react" height="60" width="35"src="https://icongr.am/devicon/react-original.svg?size=128&color=000000" />
+  <img align="center" alt="Manu-ts" height="60" width="32"src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Manu-ts" height="60" width="32"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Manu-styledComponents" height="30" width="35"src="https://img.icons8.com/color/256/styled-components.png" />
+  <img align="center" alt="Manu-styledComponents" height="30" width="35"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Manu-GitHub" height="40" width="40"src="https://img.icons8.com/fluency/512/github.png" />
-  <img align="center" alt="Manu-VsCode " height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Manu-GitHub" height="40" width="40"src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Manu-VsCode " height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Manu-Figma" height="35" width="35"src="https://img.icons8.com/fluency/2x/figma.png" />
   <img align="center" alt="Manu-trello" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
  
