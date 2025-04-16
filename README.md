@@ -2,11 +2,11 @@
 
 <img align="left" src="https://media3.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.gif?cid=ecf05e47shnjb9dsygo3s7720nd6k96q0crlwgek9icm4sz5&rid=giphy.gif&ct=s"   width="200px">
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7588A&width=435&height=44&lines=Hello+World!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7588A&width=435&height=44&lines=Hello,+World!" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F73F8B&width=435&lines=My+name+is+Emanuelle+Takenawa" alt="Typing SVG" /></a>
 </div
   
-- I’m currently learning Back-End Develompent
+- I’m a FullStack Developer
  <br> <br>
 - <a href="https://github.com/emanuelletakenawa?tab=repositories"> ![portfolio](https://img.shields.io/badge/my_repositories-000?style=for-the-badge&logo=ko-fi&logoColor=pink) </a>
 ##
@@ -32,7 +32,7 @@
   <img align="center" alt="Manu-ts" height="40" width="40"src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Manu-ts" height="60" width="42"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Manu-styledComponents" height="40" width="40"src="https://img.icons8.com/color/256/styled-components.png" />
-  <img align="center" alt="Manu-tailwindcss" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Manu-tailwindcss" height="45" width="45"src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" />
   <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="express-js"/>
   <img align="center" width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
